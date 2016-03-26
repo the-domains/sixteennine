@@ -1,0 +1,28 @@
+name: SixteenNine
+favicon: null
+layout_spectrum: 0.68158646277152
+typography_spectrum: 0.071873176144436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9837191181723028
+  lightness: 0.47102987999096513
+  saturation: 0.8254108685068786
+  rhythmicContrast: 0.2526918014045805
+purpose: []
